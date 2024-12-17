@@ -23,8 +23,6 @@
  
 ---
 <!-- About Me Section -->
- 
-<p align="center">⚡⚡ Let's Architect the Future, Cloud-Native! ⚡⚡</p>
 
 👋 About Me
 
@@ -76,7 +74,7 @@ Let's build the future together!
 
 🏆 **GitHub Trophies:**
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Okaugustine&theme=darkhub&margin-w=15&margin-h=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Okaugustine&theme=onedark&no-frame=true&margin-w=15&margin-h=15&column=6)
  
 
 
