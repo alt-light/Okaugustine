@@ -3,9 +3,9 @@
 <p align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=500&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hello!+I'm+Okonkwo+Augustine;Cloud+%26+DevOps+Engineer" alt="Typing SVG" />
 </p>
-  
+ 
 <!-- Tools & Contributions Section -->
- 🧰 Tools & Contributions
+## 🧰 Tools & Contributions
 <table align="center">
  <tr>
    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" alt="Google Cloud"/></td>
@@ -23,7 +23,6 @@
  
 ---
 <!-- About Me Section -->
-
 👋 About Me
 
 I'm a Cloud/DevOps Engineer with a passion for crafting resilient, scalable, and secure cloud solutions. I specialize in leveraging the power of cloud technologies like AWS, Azure, and GCP to automate infrastructure, streamline deployments, and optimize operations. My expertise lies in:
@@ -33,21 +32,19 @@ Continuous Integration/Continuous Delivery (CI/CD): Implementing automated pipel
 Containerization: Leveraging technologies like Docker and Kubernetes to package and deploy applications efficiently.
 Serverless Computing: Building scalable and cost-effective applications without managing servers.
 Security Best Practices: Implementing robust security measures to protect cloud environments.
-🚀 How I Can Help You
 
 Optimize Cloud Costs: Identify and eliminate cost inefficiencies.
 Accelerate Time to Market: Implement CI/CD pipelines for faster deployments.
 Enhance System Reliability: Monitor and maintain high availability.
 Improve Security Posture: Strengthen security controls and compliance.
-🎯 Let's Collaborate
 
 Are you ready to revolutionize your cloud operations? Let's connect and discuss how we can leverage the power of cloud technology to achieve your business objectives. Feel free to reach out via LinkedIn or email.
 
 Let's build the future together!
  
- 
+ ---
 <!-- Contact Section -->
- 📫 **Let's Connect**
+## 📫 Let's Connect
 
 <p align="center">
  <a href="mailto:ekenedilichukwuaugustine@gmail.com?subject=Hello Augustine!"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
@@ -58,9 +55,9 @@ Let's build the future together!
 
 </p>
 
- 
+--- 
 <!-- Tech Stack Section -->
- 💻 **Tech Stack:**
+## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
@@ -69,16 +66,17 @@ Let's build the future together!
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=flat&logo=terraform&logoColor=white)
+
 ---
 
 
-🏆 **GitHub Trophies:**
+## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Okaugustine&theme=onedark&no-frame=true&margin-w=15&margin-h=15&column=6)
- 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Okaugustine&theme=darkhub&margin-w=15&margin-h=15)
 
+---
 
-🚀 **Top Contributed Repositories**
+## 🚀 Top Contributed Repositories
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okaugustine&layout=compact&theme=radical)](https://github.com/okaugustine?tab=repositories)
 
