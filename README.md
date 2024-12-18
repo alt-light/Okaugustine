@@ -50,9 +50,11 @@ Let's build the future together!
  <a href="mailto:ekenedilichukwuaugustine@gmail.com?subject=Hello Augustine!"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
  <a href="https://www.linkedin.com/in/okaugustine/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
   <a href="https://twitter.com/okaugustine007">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter"/>
-</a>
-
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter"/></a>
+ <a href="https://www.youtube.com/channel/UCtSZDP-03YJkQgPbjXxlvIg" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube"></a>
+</a><a href="https://sites.google.com/view/okaugustine/home?authuser=0" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Site-4285F4?logo=google&logoColor=white&style=for-the-badge" alt="Google Site"></a>
 </p>
 
 --- 
