@@ -54,7 +54,8 @@ Let's build the future together!
  <a href="https://www.youtube.com/channel/UCtSZDP-03YJkQgPbjXxlvIg" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube"></a>
 <a href="https://sites.google.com/view/okaugustine/home?authuser=0" target="_blank">
-  <img src="https://img.shields.io/badge/Google%20Site-4285F4?logo=google&logoColor=white&style=for-the-badge" alt="Google Site"></a></p>
+  <img src="https://img.shields.io/badge/Google%20Site-4285F4?logo=google&logoColor=white&style=for-the-badge" alt="Google Site"></a>
+</p>
 
 --- 
 <!-- Tech Stack Section -->
